@@ -1,0 +1,480 @@
+strange object	
+strange	
+weapon	
+armor	
+ring	
+amulet	
+tool	
+food	
+potion	
+scroll	
+spellbook	
+wand	
+coin	
+gem	
+large rock	
+iron ball	
+iron chain	
+venom	
+arrow	
+elven arrow	runed arrow
+orcish arrow	crude arrow
+silver arrow	
+ya	bamboo arrow
+crossbow bolt	
+dart	
+shuriken	throwing star
+boomerang	
+spear	
+elven spear	runed spear
+orcish spear	crude spear
+dwarvish spear	stout spear
+silver spear	
+javelin	throwing spear
+trident	
+dagger	
+elven dagger	runed dagger
+orcish dagger	crude dagger
+silver dagger	
+athame	
+scalpel	
+knife	
+stiletto	
+worm tooth	
+crysknife	
+axe	
+battle-axe	double-headed axe
+short sword	
+elven short sword	runed short sword
+orcish short sword	crude short sword
+dwarvish short sword	broad short sword
+scimitar	curved sword
+silver saber	
+broadsword	
+elven broadsword	runed broadsword
+long sword	
+two-handed sword	
+katana	samurai sword
+tsurugi	long samurai sword
+runesword	runed broadsword
+partisan	vulgar polearm
+ranseur	hilted polearm
+spetum	forked polearm
+glaive	single-edged polearm
+halberd	angled poleaxe
+bardiche	long poleaxe
+voulge	pole cleaver
+fauchard	pole sickle
+guisarme	pruning hook
+bill-guisarme	hooked polearm
+lucern hammer	pronged polearm
+bec de corbin	beaked polearm
+dwarvish mattock	broad pick
+lance	
+mace	
+silver mace	
+morning star	
+war hammer	
+club	
+rubber hose	
+quarterstaff	staff
+aklys	thonged club
+flail	
+bullwhip	
+bow	
+elven bow	runed bow
+orcish bow	crude bow
+yumi	long bow
+sling	
+crossbow	
+elven leather helm	leather hat
+orcish helm	iron skull cap
+dwarvish iron helm	hard hat
+fedora	
+cornuthaum	conical hat
+dunce cap	conical hat
+dented pot	
+helm of brilliance	crystal helmet
+helmet	plumed helmet
+helm of caution	etched helmet
+helm of opposite alignment	crested helmet
+helm of telepathy	visored helmet
+gray dragon scale mail	
+gold dragon scale mail	
+silver dragon scale mail	
+shimmering dragon scale mail	
+red dragon scale mail	
+white dragon scale mail	
+orange dragon scale mail	
+black dragon scale mail	
+blue dragon scale mail	
+green dragon scale mail	
+yellow dragon scale mail	
+gray dragon scales	
+gold dragon scales	
+silver dragon scales	
+shimmering dragon scales	
+red dragon scales	
+white dragon scales	
+orange dragon scales	
+black dragon scales	
+blue dragon scales	
+green dragon scales	
+yellow dragon scales	
+plate mail	
+crystal plate mail	
+bronze plate mail	
+splint mail	
+banded mail	
+dwarvish mithril-coat	
+elven mithril-coat	
+chain mail	
+orcish chain mail	crude chain mail
+scale mail	
+studded leather armor	
+ring mail	
+orcish ring mail	crude ring mail
+leather armor	
+leather jacket	
+Hawaiian shirt	
+T-shirt	
+mummy wrapping	
+elven cloak	faded pall
+orcish cloak	coarse mantelet
+dwarvish cloak	hooded cloak
+oilskin cloak	slippery cloak
+robe	
+alchemy smock	apron
+leather cloak	
+cloak of protection	tattered cape
+cloak of invisibility	opera cloak
+cloak of magic resistance	ornamental cope
+cloak of displacement	piece of cloth
+small shield	wooden shield
+shield of drain resistance	wooden shield
+shield of shock resistance	wooden shield
+elven shield	blue and green shield
+Uruk-hai shield	white-handed shield
+orcish shield	red-eyed shield
+large shield	
+dwarvish roundshield	large round shield
+shield of reflection	polished silver shield
+leather gloves	old gloves
+gauntlets of fumbling	padded gloves
+gauntlets of power	riding gloves
+gauntlets of dexterity	fencing gloves
+low boots	walking shoes
+iron shoes	hard shoes
+high boots	jackboots
+speed boots	combat boots
+water walking boots	jungle boots
+jumping boots	hiking boots
+elven boots	mud boots
+kicking boots	buckled boots
+fumble boots	riding boots
+levitation boots	snow boots
+adornment	wooden
+gain strength	granite
+gain constitution	opal
+increase accuracy	clay
+increase damage	coral
+protection	black onyx
+regeneration	moonstone
+searching	tiger eye
+stealth	jade
+sustain ability	bronze
+levitation	agate
+hunger	topaz
+aggravate monster	sapphire
+conflict	ruby
+warning	diamond
+poison resistance	pearl
+fire resistance	iron
+cold resistance	brass
+shock resistance	copper
+free action	twisted
+slow digestion	steel
+teleportation	silver
+teleport control	gold
+polymorph	ivory
+polymorph control	emerald
+invisibility	wire
+see invisible	engagement
+protection from shape changers	shiny
+amulet of ESP	circular
+amulet of life saving	spherical
+amulet of strangulation	oval
+amulet of restful sleep	triangular
+amulet versus poison	pyramidal
+amulet of change	square
+amulet of unchanging	concave
+amulet of reflection	hexagonal
+amulet of magical breathing	octagonal
+amulet of guarding	perforated
+amulet of flying	cubical
+large box	
+chest	
+ice box	
+sack	bag
+oilskin sack	bag
+bag of holding	bag
+bag of tricks	bag
+skeleton key	key
+lock pick	
+credit card	
+tallow candle	candle
+wax candle	candle
+brass lantern	
+oil lamp	lamp
+magic lamp	lamp
+expensive camera	
+mirror	looking glass
+crystal ball	glass orb
+lenses	
+blindfold	
+towel	
+saddle	
+leash	
+stethoscope	
+tinning kit	
+tin opener	
+can of grease	
+figurine	
+magic marker	
+land mine	
+beartrap	
+tin whistle	whistle
+magic whistle	whistle
+wooden flute	flute
+magic flute	flute
+tooled horn	horn
+frost horn	horn
+fire horn	horn
+horn of plenty	horn
+wooden harp	harp
+magic harp	harp
+bell	
+bugle	
+leather drum	drum
+drum of earthquake	drum
+pick-axe	
+grappling hook	
+unicorn horn	
+Candelabrum of Invocation	candelabrum
+Bell of Opening	silver bell
+tripe ration	
+corpse	
+egg	
+meatball	
+meat stick	
+enormous meatball	
+meat ring	
+glob of gray ooze	
+glob of brown pudding	
+glob of green slime	
+glob of black pudding	
+kelp frond	
+eucalyptus leaf	
+apple	
+orange	
+pear	
+melon	
+banana	
+carrot	
+sprig of wolfsbane	
+clove of garlic	
+slime mold	
+lump of royal jelly	
+cream pie	
+candy bar	
+fortune cookie	
+pancake	
+lembas wafer	
+cram ration	
+food ration	
+K-ration	
+C-ration	
+tin	
+gain ability	ruby
+restore ability	pink
+confusion	orange
+blindness	yellow
+paralysis	emerald
+speed	dark green
+levitation	cyan
+hallucination	sky blue
+invisibility	brilliant blue
+see invisible	magenta
+healing	purple-red
+extra healing	puce
+gain level	milky
+enlightenment	swirly
+monster detection	bubbly
+object detection	smoky
+gain energy	cloudy
+sleeping	effervescent
+full healing	black
+polymorph	golden
+booze	brown
+sickness	fizzy
+fruit juice	dark
+acid	white
+oil	murky
+water	clear
+enchant armor	ZELGO MER
+destroy armor	JUYED AWK YACC
+confuse monster	NR 9
+scare monster	XIXAXA XOXAXA XUXAXA
+remove curse	PRATYAVAYAH
+enchant weapon	DAIYEN FOOELS
+create monster	LEP GEX VEN ZEA
+taming	PRIRUTSENIE
+genocide	ELBIB YLOH
+light	VERR YED HORRE
+teleportation	VENZAR BORGAVVE
+gold detection	THARR
+food detection	YUM YUM
+identify	KERNOD WEL
+magic mapping	ELAM EBOW
+amnesia	DUAM XNAHT
+fire	ANDOVA BEGARIN
+earth	KIRJE
+punishment	VE FORBRYDERNE
+charging	HACKEM MUCHE
+stinking cloud	VELOX NEB
+FOOBIE BLETCH	
+TEMOV	
+GARVEN DEH	
+READ ME	
+ETAOIN SHRDLU	
+LOREM IPSUM	
+FNORD	
+KO BATE	
+ABRA KA DABRA	
+ASHPD SODALG	
+ZLORFIK	
+GNIK SISI VLE	
+HAPAX LEGOMENON	
+EIRIS SAZUN IDISI	
+PHOL ENDE WODAN	
+GHOTI	
+MAPIRO MAHAMA DIROMAT	
+VAS CORP BET MANI	
+XOR OTA	
+STRC PRST SKRZ KRK	
+mail	stamped
+blank paper	unlabeled
+dig	parchment
+magic missile	vellum
+fireball	ragged
+cone of cold	dog eared
+sleep	mottled
+finger of death	stained
+light	cloth
+detect monsters	leathery
+healing	white
+knock	pink
+force bolt	red
+confuse monster	orange
+cure blindness	yellow
+drain life	velvet
+slow monster	light green
+wizard lock	dark green
+create monster	turquoise
+detect food	cyan
+cause fear	light blue
+clairvoyance	dark blue
+cure sickness	indigo
+charm monster	magenta
+haste self	purple
+detect unseen	violet
+levitation	tan
+extra healing	plaid
+restore ability	light brown
+invisibility	dark brown
+detect treasure	gray
+remove curse	wrinkled
+magic mapping	dusty
+identify	bronze
+turn undead	copper
+polymorph	silver
+teleport away	gold
+create familiar	glittering
+cancellation	shining
+protection	dull
+jumping	thin
+stone to flesh	thick
+chain lightning	checkered
+flame sphere	canvas
+freeze sphere	hardcover
+blank paper	plain
+novel	paperback
+Book of the Dead	papyrus
+light	glass
+secret door detection	
+enlightenment	crystal
+create monster	maple
+wishing	pine
+stasis	redwood
+nothing	oak
+striking	ebony
+make invisible	marble
+slow monster	tin
+speed monster	brass
+undead turning	copper
+polymorph	silver
+cancellation	platinum
+teleportation	iridium
+opening	zinc
+locking	aluminum
+probing	uranium
+digging	iron
+magic missile	steel
+fire	hexagonal
+cold	short
+sleep	runed
+death	long
+lightning	curved
+gold piece	
+dilithium crystal	white
+diamond	white
+ruby	red
+jacinth	orange
+sapphire	blue
+black opal	black
+emerald	green
+turquoise	green
+citrine	yellow
+aquamarine	green
+amber	yellowish brown
+topaz	yellowish brown
+jet	black
+opal	white
+chrysoberyl	yellow
+garnet	red
+amethyst	violet
+jasper	red
+fluorite	violet
+obsidian	black
+agate	orange
+jade	green
+worthless piece of white glass	white
+worthless piece of blue glass	blue
+worthless piece of red glass	red
+worthless piece of yellowish brown glass	yellowish brown
+worthless piece of orange glass	orange
+worthless piece of yellow glass	yellow
+worthless piece of black glass	black
+worthless piece of green glass	green
+worthless piece of violet glass	violet
+luckstone	gray
+loadstone	gray
+touchstone	gray
+flint	gray
+rock	
+boulder	
+statue	
+heavy iron ball	
+iron chain	
+splash of blinding venom	splash of venom
+splash of acid venom	splash of venom

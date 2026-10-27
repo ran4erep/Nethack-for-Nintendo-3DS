@@ -1,0 +1,419 @@
+Aleax
+Angel
+Arch Priest
+Archon
+Ashikaga Takauji
+Asmodeus
+Baalzebub
+Cerberus
+Charon
+Chromatic Dragon
+Croesus
+Cyclops
+Dark One
+Death
+Demogorgon
+Dispater
+Earendil
+Elvenking
+Elvenqueen
+Elwing
+Famine
+Geryon
+Goblin King
+Grand Master
+Green-elf
+Grey-elf
+High-elf
+Hippocrates
+Ixoth
+Juiblex
+Keystone Kop
+King Arthur
+Kop Kaptain
+Kop Lieutenant
+Kop Sergeant
+Lord Carnarvon
+Lord Sato
+Lord Surtur
+Master Assassin
+Master Kaen
+Master of Thieves
+Medusa
+Minion of Huhetotl
+Mordor orc
+Nalzok
+Nazgul
+Neferet the Green
+Norn
+Olog-hai
+Oracle
+Orcus
+Orion
+Pelias
+Pestilence
+Scorpius
+Shaman Karnov
+Thoth Amon
+Twoflower
+Uruk-hai
+Vlad the Impaler
+Wizard of Yendor
+Woodland-elf
+Yeenoghu
+abbot
+acid blob
+acolyte
+air elemental
+aligned cleric
+amorous demon
+ape
+apprentice
+arch-lich
+archeologist
+attendant
+baby black dragon
+baby blue dragon
+baby crocodile
+baby gold dragon
+baby gray dragon
+baby green dragon
+baby long worm
+baby orange dragon
+baby purple worm
+baby red dragon
+baby shimmering dragon
+baby silver dragon
+baby white dragon
+baby yellow dragon
+balrog
+baluchitherium
+barbarian
+barbed devil
+barrow wight
+bat
+beholder
+black dragon
+black light
+black naga
+black naga hatchling
+black pudding
+black unicorn
+blue dragon
+blue jelly
+bone devil
+brown mold
+brown pudding
+bugbear
+captain
+carnivorous ape
+cave dweller
+cave spider
+caveman
+cavewoman
+centipede
+chameleon
+chickatrice
+chieftain
+clay golem
+cleric
+cobra
+cockatrice
+couatl
+coyote
+crocodile
+demilich
+dingo
+disenchanter
+displacer beast
+djinni
+dog
+doppelganger
+dust vortex
+dwarf
+dwarf king
+dwarf lady
+dwarf leader
+dwarf lord
+dwarf mummy
+dwarf queen
+dwarf ruler
+dwarf zombie
+earth elemental
+electric eel
+elf
+elf mummy
+elf zombie
+elf-lady
+elf-lord
+elf-noble
+elven monarch
+energy vortex
+erinys
+ettin
+ettin mummy
+ettin zombie
+fire ant
+fire elemental
+fire giant
+fire vortex
+flaming sphere
+flesh golem
+floating eye
+fog cloud
+forest centaur
+fox
+freezing sphere
+frost giant
+gargoyle
+garter snake
+gas spore
+gecko
+gelatinous cube
+genetic engineer
+ghost
+ghoul
+giant
+giant ant
+giant bat
+giant beetle
+giant eel
+giant mimic
+giant mummy
+giant rat
+giant spider
+giant zombie
+glass golem
+glass piercer
+gnome
+gnome king
+gnome lady
+gnome leader
+gnome lord
+gnome mummy
+gnome queen
+gnome ruler
+gnome zombie
+gnomish wizard
+goblin
+gold dragon
+gold golem
+golden naga
+golden naga hatchling
+gray dragon
+gray ooze
+gray unicorn
+green dragon
+green mold
+green slime
+gremlin
+grid bug
+guard
+guardian naga
+guardian naga hatchling
+guide
+healer
+hell hound
+hell hound pup
+hezrou
+high cleric
+high priest
+high priestess
+hill giant
+hill orc
+hobbit
+hobgoblin
+homunculus
+horned devil
+horse
+housecat
+human
+human mummy
+human zombie
+hunter
+ice devil
+ice troll
+ice vortex
+iguana
+imp
+incubus
+iron golem
+iron piercer
+jabberwock
+jackal
+jaguar
+jellyfish
+ki-rin
+killer bee
+kitten
+knight
+kobold
+kobold lady
+kobold leader
+kobold lord
+kobold mummy
+kobold shaman
+kobold zombie
+kraken
+large cat
+large dog
+large kobold
+large mimic
+leather golem
+lemure
+leocrotta
+leprechaun
+lich
+lichen
+lieutenant
+little dog
+lizard
+long worm
+long worm tail
+lurker above
+lynx
+mail daemon
+manes
+marilith
+master lich
+master mind flayer
+mastodon
+mind flayer
+minotaur
+monk
+monkey
+mountain centaur
+mountain nymph
+mumak
+nalfeshnee
+neanderthal
+newt
+ninja
+nurse
+ochre jelly
+ogre
+ogre king
+ogre lady
+ogre leader
+ogre lord
+ogre queen
+ogre tyrant
+orange dragon
+orc
+orc mummy
+orc shaman
+orc zombie
+orc-captain
+owlbear
+page
+panther
+paper golem
+piranha
+pit fiend
+pit viper
+plains centaur
+pony
+priest
+priestess
+prisoner
+purple worm
+pyrolisk
+python
+quantum mechanic
+quasit
+queen bee
+quivering blob
+rabid rat
+ranger
+raven
+red dragon
+red mold
+red naga
+red naga hatchling
+rock mole
+rock piercer
+rock troll
+rogue
+rope golem
+roshi
+rothe
+rust monster
+salamander
+samurai
+sandestin
+sasquatch
+scorpion
+sergeant
+sewer rat
+shade
+shark
+shimmering dragon
+shocking sphere
+shopkeeper
+shrieker
+silver dragon
+skeleton
+small mimic
+snake
+soldier
+soldier ant
+spotted jelly
+stalker
+steam vortex
+stone giant
+stone golem
+storm giant
+straw golem
+student
+succubus
+tengu
+thug
+tiger
+titan
+titanothere
+tourist
+trapper
+troll
+umber hulk
+valkyrie
+vampire
+vampire bat
+vampire lady
+vampire leader
+vampire lord
+vampire mage
+violet fungus
+vorpal jabberwock
+vrock
+warg
+warhorse
+warrior
+watch captain
+watchman
+water demon
+water elemental
+water moccasin
+water nymph
+water troll
+werejackal
+wererat
+werewolf
+white dragon
+white unicorn
+winged gargoyle
+winter wolf
+winter wolf cub
+wizard
+wolf
+wood golem
+wood nymph
+woodchuck
+wraith
+wumpus
+xan
+xorn
+yellow dragon
+yellow light
+yellow mold
+yeti
+zruty

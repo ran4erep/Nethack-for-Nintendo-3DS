@@ -1,0 +1,714 @@
+{
+  "cwnannwn-howling": {
+    "message": "You hear the howling of the CwnAnnwn...",
+    "prompt": "Eerie ghostly hounds howling in the far distance, chilling and otherworldly",
+    "duration": 3.0,
+    "status": "ok",
+    "bytes": 48944
+  },
+  "banshee-wailing": {
+    "message": "You hear the wailing of the Banshee...",
+    "prompt": "A banshee's high, mournful wail echoing through a cavern, ominous and thin",
+    "duration": 3.0,
+    "status": "ok",
+    "bytes": 48944
+  },
+  "noises-in-distance": {
+    "message": "You hear some noises <in the distance>.",
+    "prompt": "Faint muffled scuffling and clatter from far away down a corridor",
+    "duration": 2.0,
+    "status": "ok",
+    "bytes": 33061
+  },
+  "wand-zap": {
+    "message": "You hear a <nearby/distant> zap.",
+    "prompt": "A crisp electric zap crackle, like a magical wand discharge, with a faint buzz",
+    "duration": 1.5,
+    "status": "ok",
+    "bytes": 24702
+  },
+  "potion-chugging": {
+    "message": "You hear a chugging sound.",
+    "prompt": "A greedy glugging, chugging drinking sound, liquid being gulped down",
+    "duration": 1.5,
+    "status": "ok",
+    "bytes": 24702
+  },
+  "monster-behind-boulder": {
+    "message": "You hear a monster behind the boulder. Perhaps that's why you cannot move it.",
+    "prompt": "A heavy grinding push against stone followed by a low threatening growl",
+    "duration": 2.0,
+    "status": "ok",
+    "bytes": 33061
+  },
+  "pet-thunder": {
+    "message": "You hear the rumble of distant thunder...",
+    "prompt": "Deep low rumble of thunder rolling across the distance, distant and ominous",
+    "duration": 3.0,
+    "status": "ok",
+    "bytes": 48944
+  },
+  "studio-audience-applause": {
+    "message": "You hear the studio audience applaud!",
+    "prompt": "A burst of enthusiastic crowd applause and cheering",
+    "duration": 2.0,
+    "status": "ok",
+    "bytes": 33061
+  },
+  "werewolf-howl": {
+    "message": "You hear a <jackal/wolf> howling at the moon.",
+    "prompt": "A lone wolf howling long and mournfully at the moon in the night",
+    "duration": 3.0,
+    "status": "ok",
+    "bytes": 48944
+  },
+  "gelatinous-cube-slurp": {
+    "message": "You hear a slurping sound.",
+    "prompt": "A wet, obscene slurping and squelching sound as something absorbs objects",
+    "duration": 2.0,
+    "status": "ok",
+    "bytes": 33061
+  },
+  "metallivore-crunch": {
+    "message": "You hear a crunching sound.",
+    "prompt": "A hard metallic crunching and grinding, like biting into iron",
+    "duration": 1.8,
+    "status": "ok",
+    "bytes": 29300
+  },
+  "dwarf-digging-rock": {
+    "message": "You hear crashing rock.",
+    "prompt": "Heavy rock being chiseled and crumbling, picks striking stone, rocks tumbling",
+    "duration": 2.0,
+    "status": "ok",
+    "bytes": 33061
+  },
+  "hole-crash-ground": {
+    "message": "You hear something crash through the ground.",
+    "prompt": "A heavy object falling and crashing through crumbling earth and rock into a hole",
+    "duration": 2.0,
+    "status": "ok",
+    "bytes": 33061
+  },
+  "gas-spore-blast": {
+    "message": "You hear a blast.",
+    "prompt": "A dull explosive blast with a rush of air and sharp crack",
+    "duration": 1.5,
+    "status": "ok",
+    "bytes": 24702
+  },
+  "door-destroyed-crash": {
+    "message": "You hear a crashing sound.",
+    "prompt": "Wood and debris crashing down and splintering, a collapsing door",
+    "duration": 1.8,
+    "status": "ok",
+    "bytes": 29300
+  },
+  "vortex-rushing": {
+    "message": "You hear a rushing noise nearby.",
+    "prompt": "A rushing whirlwind of air, a swirling wind gust whooshing past",
+    "duration": 2.0,
+    "status": "ok",
+    "bytes": 33061
+  },
+  "ochre-jelly-splat": {
+    "message": "You hear a splat nearby.",
+    "prompt": "A wet squishy splat, like soft jelly slapping against stone",
+    "duration": 1.5,
+    "status": "ok",
+    "bytes": 24702
+  },
+  "armor-thud": {
+    "message": "You hear a thud.",
+    "prompt": "A heavy dull thud as something solid drops to the floor",
+    "duration": 1.2,
+    "status": "ok",
+    "bytes": 20105
+  },
+  "shield-clank": {
+    "message": "You hear a clank.",
+    "prompt": "A metallic clank, metal objects clattering and ringing on stone",
+    "duration": 1.5,
+    "status": "ok",
+    "bytes": 24702
+  },
+  "armor-cracking": {
+    "message": "You hear a cracking sound.",
+    "prompt": "Metal cracking and splitting with a sharp strained creak",
+    "duration": 1.5,
+    "status": "ok",
+    "bytes": 24702
+  },
+  "shirt-ripping": {
+    "message": "You hear a ripping sound.",
+    "prompt": "Cloth tearing and ripping apart with a long shred",
+    "duration": 1.5,
+    "status": "ok",
+    "bytes": 24702
+  },
+  "chewing-lizard": {
+    "message": "You hear chewing.",
+    "prompt": "Slow wet chewing and munching, crunching through flesh",
+    "duration": 1.8,
+    "status": "ok",
+    "bytes": 29300
+  },
+  "cough-breath": {
+    "message": "You hear a cough.",
+    "prompt": "A sudden dry strangled cough, a choked breath",
+    "duration": 1.2,
+    "status": "ok",
+    "bytes": 20105
+  },
+  "ghoul-gobble": {
+    "message": "You hear an awful gobbling noise.",
+    "prompt": "Horrid gobbling and gagging as something devours rotten meat",
+    "duration": 2.0,
+    "status": "ok",
+    "bytes": 33061
+  },
+  "glob-slosh": {
+    "message": "You hear a faint sloshing sound.",
+    "prompt": "A soft faint sloshing of liquid, like gel merging and shifting",
+    "duration": 2.0,
+    "status": "ok",
+    "bytes": 33061
+  },
+  "slow-drip": {
+    "message": "You hear a slow drip.",
+    "prompt": "A single water droplet dripping into a puddle, echoing in a cavern",
+    "duration": 2.0,
+    "status": "existing"
+  },
+  "sink-gurgle": {
+    "message": "You hear a gurgling noise.",
+    "prompt": "Water gurgling and glugging down a pipe or drain",
+    "duration": 2.0,
+    "status": "ok",
+    "bytes": 33061
+  },
+  "dishes-washed": {
+    "message": "You hear dishes being washed!",
+    "prompt": "Clinking dishes and running water, someone washing up",
+    "duration": 2.0,
+    "status": "ok",
+    "bytes": 33061
+  },
+  "water-on-coins": {
+    "message": "You hear water falling on coins.",
+    "prompt": "Water trickling and dripping onto a pile of metal coins",
+    "duration": 2.0,
+    "status": "ok",
+    "bytes": 33061
+  },
+  "fountain-bubbling": {
+    "message": "You hear bubbling water.",
+    "prompt": "Bubbling and burbling fountain water flowing and splashing",
+    "duration": 2.0,
+    "status": "ok",
+    "bytes": 33061
+  },
+  "soda-fountain": {
+    "message": "You hear a soda fountain!",
+    "prompt": "Fizzy carbonated soda dispensing with bubbling and hissing",
+    "duration": 2.0,
+    "status": "ok",
+    "bytes": 33061
+  },
+  "tumblers-click": {
+    "message": "You hear <number> tumbler(s) click.",
+    "prompt": "A precise mechanical click of tumblers falling into place in a lock",
+    "duration": 1.8,
+    "status": "ok",
+    "bytes": 29300
+  },
+  "gears-turn": {
+    "message": "You hear <number> gear(s) turn.",
+    "prompt": "Heavy metal gears grinding and ratcheting as they turn",
+    "duration": 2.0,
+    "status": "ok",
+    "bytes": 33061
+  },
+  "boulder-trap-rumble": {
+    "message": "You hear rumbling in the distance.",
+    "prompt": "Distant low rumbling of a great heavy boulder rolling",
+    "duration": 2.5,
+    "status": "ok",
+    "bytes": 40585
+  },
+  "bowling": {
+    "message": "You hear someone bowling.",
+    "prompt": "A heavy ball rolling and clattering, then pins struck, echoing",
+    "duration": 2.5,
+    "status": "ok",
+    "bytes": 40585
+  },
+  "rumbling-stop": {
+    "message": "You hear a rumbling stop abruptly.",
+    "prompt": "A rolling rumble suddenly stops with a dull thud and silence",
+    "duration": 2.0,
+    "status": "ok",
+    "bytes": 33061
+  },
+  "boulder-crash": {
+    "message": "You hear a loud crash!",
+    "prompt": "Two massive boulders colliding with a deep loud crash and rubble",
+    "duration": 1.8,
+    "status": "ok",
+    "bytes": 29300
+  },
+  "trapped-door-explosion": {
+    "message": "You hear a distant explosion.",
+    "prompt": "A muffled distant explosion, a boom echoing from far away",
+    "duration": 2.0,
+    "status": "ok",
+    "bytes": 33061
+  },
+  "landmine-explosion": {
+    "message": "Kaablamm! You hear an explosion in the distance.",
+    "prompt": "A loud distant explosion with a heavy boom and shockwave",
+    "duration": 2.0,
+    "status": "ok",
+    "bytes": 33061
+  },
+  "squeaky-board": {
+    "message": "You hear a distant squeaking sound.",
+    "prompt": "A distant high-pitched squeak, like a rusty hinge or floorboard",
+    "duration": 1.8,
+    "status": "ok",
+    "bytes": 29300
+  },
+  "bear-web-roar": {
+    "message": "You hear the roaring of a confused bear!",
+    "prompt": "A confused angry bear roaring and thrashing, muffled struggles",
+    "duration": 2.5,
+    "status": "ok",
+    "bytes": 40585
+  },
+  "bear-trap-roar": {
+    "message": "You hear the roaring of an angry bear!",
+    "prompt": "A furious bear roaring in pain, snarling and thrashing",
+    "duration": 2.5,
+    "status": "ok",
+    "bytes": 40585
+  },
+  "deafening-roar": {
+    "message": "You hear a deafening roar!",
+    "prompt": "An enormous deafening roar, a massive beast-like bellow",
+    "duration": 2.0,
+    "status": "ok",
+    "bytes": 33061
+  },
+  "magic-trap-howl": {
+    "message": "You hear distant howling.",
+    "prompt": "Distant wind howling down a tunnel, eerie and hollow",
+    "duration": 2.5,
+    "status": "ok",
+    "bytes": 40585
+  },
+  "moon-howl": {
+    "message": "You hear the moon howling at you.",
+    "prompt": "A weird high howling, laughter-like, echoing strangely",
+    "duration": 2.0,
+    "status": "ok",
+    "bytes": 33061
+  },
+  "arrow-trap-click": {
+    "message": "You hear a loud click!",
+    "prompt": "A sharp loud mechanical click, a mechanism engaging",
+    "duration": 1.0,
+    "status": "ok",
+    "bytes": 17179
+  },
+  "dart-trap-click": {
+    "message": "You hear a soft click!",
+    "prompt": "A soft quiet click, a small mechanism engaging",
+    "duration": 1.0,
+    "status": "ok",
+    "bytes": 17179
+  },
+  "trapdoor-twang": {
+    "message": "You hear a twang followed by a thud.",
+    "prompt": "A metallic twang or spring snap, then a dull thud",
+    "duration": 1.5,
+    "status": "ok",
+    "bytes": 24702
+  },
+  "seal-bark": {
+    "message": "You hear a sound reminiscent of a seal barking.",
+    "prompt": "A weird barking honk like a seal barking, echoing in a chamber",
+    "duration": 1.8,
+    "status": "ok",
+    "bytes": 29300
+  },
+  "elephant-peanut": {
+    "message": "You hear a sound reminiscent of an elephant stepping on a peanut.",
+    "prompt": "A heavy crunching stomp, like a giant foot crushing a peanut",
+    "duration": 1.5,
+    "status": "ok",
+    "bytes": 24702
+  },
+  "doctor-doolittle": {
+    "message": "You hear Doctor Doolittle!",
+    "prompt": "A cheerful crowd of animal noises: chatter, barks and chirps mixed",
+    "duration": 2.0,
+    "status": "ok",
+    "bytes": 33061
+  },
+  "searching-vault": {
+    "message": "You hear someone searching.",
+    "prompt": "Rummaging and shuffling sounds, someone searching around",
+    "duration": 2.0,
+    "status": "ok",
+    "bytes": 33061
+  },
+  "scrooge": {
+    "message": "You hear Ebenezer Scrooge!",
+    "prompt": "A grumpy miser counting coins with sour grumbling",
+    "duration": 2.0,
+    "status": "ok",
+    "bytes": 33061
+  },
+  "quarterback-play": {
+    "message": "You hear the quarterback calling the play.",
+    "prompt": "A brisk voice calling out rapid numbers in a rhythmic cadence",
+    "duration": 2.0,
+    "status": "ok",
+    "bytes": 33061
+  },
+  "oracle-snoring": {
+    "message": "You hear snoring snakes.",
+    "prompt": "Odd sibilant hissing snores, many snakes sleeping",
+    "duration": 2.5,
+    "status": "ok",
+    "bytes": 40585
+  },
+  "oracle-wind": {
+    "message": "You hear a strange wind.",
+    "prompt": "A strange hollow wind whistling through unseen cracks",
+    "duration": 2.5,
+    "status": "ok",
+    "bytes": 40585
+  },
+  "oracle-ravings": {
+    "message": "You hear convulsive ravings.",
+    "prompt": "Muffled frantic rambling and muttering, incoherent ravings",
+    "duration": 2.0,
+    "status": "ok",
+    "bytes": 33061
+  },
+  "oracle-woodchuck": {
+    "message": "You hear someone say \"No more woodchucks!\"",
+    "prompt": "A gruff voice muttering mid a firm declaration",
+    "duration": 1.5,
+    "status": "ok",
+    "bytes": 24702
+  },
+  "oracle-zot": {
+    "message": "You hear a loud ZOT!",
+    "prompt": "A sudden loud magical ZOT, a burst of arcane energy",
+    "duration": 1.5,
+    "status": "ok",
+    "bytes": 24702
+  },
+  "throne-conversation": {
+    "message": "You hear the tones of courtly conversation.",
+    "prompt": "Polite refined chatter and murmured courtly conversation",
+    "duration": 2.0,
+    "status": "ok",
+    "bytes": 33061
+  },
+  "throne-sceptre": {
+    "message": "You hear a sceptre pounded in judgment.",
+    "prompt": "A heavy wooden staff or sceptre pounding on stone, commanding",
+    "duration": 1.5,
+    "status": "ok",
+    "bytes": 24702
+  },
+  "throne-off-with-head": {
+    "message": "Someone shouts \"Off with his/her head!\"",
+    "prompt": "A shrill commanding voice shouting a sentence, dramatic",
+    "duration": 1.5,
+    "status": "ok",
+    "bytes": 24702
+  },
+  "queen-cats": {
+    "message": "You hear Queen Beruthiel's cats!",
+    "prompt": "Many angry cats hissing, yowling and meowing together",
+    "duration": 2.5,
+    "status": "ok",
+    "bytes": 40585
+  },
+  "temple-praising": {
+    "message": "You hear someone praising <deity>.",
+    "prompt": "A reverent chanting voice praising the deity, echoing in a temple",
+    "duration": 2.5,
+    "status": "ok",
+    "bytes": 40585
+  },
+  "temple-beseeching": {
+    "message": "You hear someone beseeching <deity>.",
+    "prompt": "A desperate pleading voice praying and beseeching",
+    "duration": 2.5,
+    "status": "ok",
+    "bytes": 40585
+  },
+  "temple-sacrifice": {
+    "message": "You hear an animal carcass being offered in sacrifice.",
+    "prompt": "A heavy fleshy thud of a carcass being placed on an altar",
+    "duration": 1.8,
+    "status": "ok",
+    "bytes": 29300
+  },
+  "temple-donations": {
+    "message": "You hear a strident plea for donations.",
+    "prompt": "A loud insistent wheedling voice pleading for coins",
+    "duration": 2.0,
+    "status": "ok",
+    "bytes": 33061
+  },
+  "beehive-buzzing": {
+    "message": "You hear a low buzzing.",
+    "prompt": "A low deep buzzing hum of a large swarm of bees",
+    "duration": 3.0,
+    "status": "ok",
+    "bytes": 48944
+  },
+  "beehive-drone": {
+    "message": "You hear an angry drone.",
+    "prompt": "An angry agitated buzzing drone, a disturbed beehive",
+    "duration": 3.0,
+    "status": "ok",
+    "bytes": 48944
+  },
+  "bees-bonnet": {
+    "message": "You hear bees in your bonnet!",
+    "prompt": "Bees buzzing frantically and angrily all around your head",
+    "duration": 2.5,
+    "status": "ok",
+    "bytes": 40585
+  },
+  "bees-nonexistent-bonnet": {
+    "message": "You hear bees in your (nonexistent) bonnet!",
+    "prompt": "Bees buzzing around your ears, frantic and close",
+    "duration": 2.5,
+    "status": "ok",
+    "bytes": 40585
+  },
+  "graveyard-quiet": {
+    "message": "You suddenly realize it is unnaturally quiet.",
+    "prompt": "A sudden uncanny, unnaturally deep silence, no sound at all",
+    "duration": 2.0,
+    "status": "ok",
+    "bytes": 33061
+  },
+  "graveyard-hair-neck": {
+    "message": "The <hair> on the back of your <neck> stands up.",
+    "prompt": "A subtle eerie chill, a low creepy shiver tone",
+    "duration": 2.0,
+    "status": "ok",
+    "bytes": 33061
+  },
+  "graveyard-hair-head": {
+    "message": "The <hair> on your <head> seems to stand up.",
+    "prompt": "A weird unsettling whispery chill, hairs raising",
+    "duration": 2.0,
+    "status": "ok",
+    "bytes": 33061
+  },
+  "barracks-blades": {
+    "message": "You hear blades being honed.",
+    "prompt": "Steel being sharpened, a whetstone scraping a blade rhythmically",
+    "duration": 2.5,
+    "status": "ok",
+    "bytes": 40585
+  },
+  "barracks-snoring": {
+    "message": "You hear loud snoring.",
+    "prompt": "Loud heavy snoring from many sleeping soldiers",
+    "duration": 3.0,
+    "status": "ok",
+    "bytes": 48944
+  },
+  "barracks-dice": {
+    "message": "You hear dice being thrown.",
+    "prompt": "Dice rattling on a wooden table, rolling and clicking",
+    "duration": 1.5,
+    "status": "ok",
+    "bytes": 24702
+  },
+  "general-macarthur": {
+    "message": "You hear General MacArthur!",
+    "prompt": "A booming authoritative military voice barking orders",
+    "duration": 1.5,
+    "status": "ok",
+    "bytes": 24702
+  },
+  "swamp-mosquitoes": {
+    "message": "You hear mosquitoes!",
+    "prompt": "A high thin whine of mosquitoes buzzing close by",
+    "duration": 2.0,
+    "status": "ok",
+    "bytes": 33061
+  },
+  "swamp-marsh-gas": {
+    "message": "You smell marsh gas!",
+    "prompt": "A low bubbling gurgle of gas rising from murky water",
+    "duration": 2.0,
+    "status": "ok",
+    "bytes": 33061
+  },
+  "donald-duck": {
+    "message": "You hear Donald Duck!",
+    "prompt": "An angry quacking cartoonish voice ranting in gibberish",
+    "duration": 2.0,
+    "status": "ok",
+    "bytes": 33061
+  },
+  "shop-shoplifters": {
+    "message": "You hear someone cursing shoplifters.",
+    "prompt": "An irritated grumbling voice muttering curses under its breath",
+    "duration": 1.8,
+    "status": "ok",
+    "bytes": 29300
+  },
+  "shop-cash-register": {
+    "message": "You hear the chime of a cash register.",
+    "prompt": "A classic cash register chime with a definitive ding",
+    "duration": 1.0,
+    "status": "ok",
+    "bytes": 17179
+  },
+  "neiman-marcus": {
+    "message": "You hear Neiman and Marcus arguing!",
+    "prompt": "Two pompous voices arguing over prices, rapid back and forth",
+    "duration": 2.0,
+    "status": "ok",
+    "bytes": 33061
+  },
+  "item-shatter": {
+    "message": "You hear something shatter!",
+    "prompt": "Glass or ceramic shattering into pieces with a sharp crash",
+    "duration": 1.5,
+    "status": "ok",
+    "bytes": 24702
+  },
+  "boulder-crumbling": {
+    "message": "You hear a crumbling sound.",
+    "prompt": "Stone crumbling and grinding, a boulder breaking apart",
+    "duration": 2.0,
+    "status": "ok",
+    "bytes": 33061
+  },
+  "scare-monster-laugh-near": {
+    "message": "You hear maniacal laughter close by.",
+    "prompt": "A close maniacal high-pitched cackling laughter",
+    "duration": 2.0,
+    "status": "ok",
+    "bytes": 33061
+  },
+  "scare-monster-laugh-far": {
+    "message": "You hear maniacal laughter in the distance.",
+    "prompt": "Maniacal cackling laughter echoing from far away",
+    "duration": 2.5,
+    "status": "ok",
+    "bytes": 40585
+  },
+  "scare-monster-wail-near": {
+    "message": "You hear sad wailing close by.",
+    "prompt": "A close sad mournful wailing, weeping and keening",
+    "duration": 2.5,
+    "status": "ok",
+    "bytes": 40585
+  },
+  "scare-monster-wail-far": {
+    "message": "You hear sad wailing in the distance.",
+    "prompt": "Sad mournful wailing drifting in from far off",
+    "duration": 3.0,
+    "status": "ok",
+    "bytes": 48944
+  },
+  "container-muffled-shatter": {
+    "message": "You hear a muffled shatter.",
+    "prompt": "A muffled shattering of glass inside a container, dulled",
+    "duration": 1.5,
+    "status": "ok",
+    "bytes": 24702
+  },
+  "container-muffled-crack": {
+    "message": "You hear a muffled cracking.",
+    "prompt": "A muffled cracking of an eggshell inside a container",
+    "duration": 1.5,
+    "status": "ok",
+    "bytes": 24702
+  },
+  "hellfire-crackling": {
+    "message": "You hear the crackling of hellfire.",
+    "prompt": "Deep ominous crackling of fire with a sinister low roar",
+    "duration": 2.5,
+    "status": "ok",
+    "bytes": 40585
+  },
+  "heartbeat": {
+    "message": "You hear your heart beat.",
+    "prompt": "A slow strong heartbeat, thumping and deep",
+    "duration": 2.0,
+    "status": "existing"
+  },
+  "faint-typing": {
+    "message": "You hear a faint typing noise.",
+    "prompt": "Faint rapid clicking and tapping, like typing on a keyboard",
+    "duration": 2.0,
+    "status": "ok",
+    "bytes": 33061
+  },
+  "secret-door-hollow": {
+    "message": "You hear a hollow sound. This must be a secret <door/passage>!",
+    "prompt": "A hollow knocking on a wall, empty and echoing behind it",
+    "duration": 1.5,
+    "status": "ok",
+    "bytes": 24702
+  },
+  "its-dead-jim": {
+    "message": "You hear a voice say, \"It's dead, Jim.\"",
+    "prompt": "A calm matter-of-fact voice speaking a short sentence",
+    "duration": 1.5,
+    "status": "ok",
+    "bytes": 24702
+  },
+  "bugle-reveille": {
+    "message": "You hear a bugle playing reveille!",
+    "prompt": "A bright clear bugle playing a military reveille call",
+    "duration": 3.0,
+    "status": "ok",
+    "bytes": 48944
+  },
+  "battle-gear-rattle": {
+    "message": "You hear the rattle of battle gear being readied.",
+    "prompt": "Metal armor and weapons rattling and clinking as troops arm up",
+    "duration": 2.5,
+    "status": "ok",
+    "bytes": 40585
+  },
+  "moat-hissing-gas": {
+    "message": "You hear hissing gas.",
+    "prompt": "A sharp hissing of steam, water boiling and evaporating",
+    "duration": 2.0,
+    "status": "ok",
+    "bytes": 33061
+  },
+  "moat-soft-crackling": {
+    "message": "You hear a soft crackling.",
+    "prompt": "Soft gentle crackling of ice forming and freezing",
+    "duration": 2.0,
+    "status": "ok",
+    "bytes": 33061
+  },
+  "plane-water-crackling": {
+    "message": "You hear a crackling sound.",
+    "prompt": "A sharp crackling of water freezing solid with ice snaps",
+    "duration": 2.0,
+    "status": "ok",
+    "bytes": 33061
+  }
+}

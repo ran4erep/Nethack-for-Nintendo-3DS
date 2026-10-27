@@ -1,0 +1,2 @@
+# EN	RU — fill the RU column, then re-run
+# python .tools/translate_messages.py --apply

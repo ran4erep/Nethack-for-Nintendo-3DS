@@ -1,0 +1,550 @@
+<!DOCTYPE html><html lang='en'><head><meta charset='utf-8'>
+<title>NetHack 3DS - You hear sounds</title>
+<style>
+body{font-family:system-ui,sans-serif;margin:24px;background:#1a1a2e;color:#eee;max-width:900px;margin:0 auto;padding:24px}
+h1{color:#e0e0ff}h2{color:#9aa6ff;margin-top:36px;border-bottom:1px solid #333;padding-bottom:4px}
+.item{background:#24243e;border:1px solid #333;border-radius:8px;padding:8px 12px;margin:6px 0;display:flex;align-items:center;gap:12px;flex-wrap:wrap}
+.label{flex:1;min-width:260px}
+.prompt{color:#aaa;font-size:12px;width:100%}
+audio{height:32px}
+.missing{color:#ff7b7b;font-size:12px}
+.note{color:#8f8;font-size:13px}
+.excl{background:#3a2a2a}
+</style></head><body>
+<h1>NetHack 3DS — «You hear…» sound pack</h1>
+<p class='note'>Прослушайте каждый звук. Пропущенные/проваленные отмечены. Если что-то не нравится — скажите slug, перегенерирую.</p>
+<h2>Уже было / отдельные ключи</h2>
+<div class='item'>
+<audio controls preload='none' src='../engraving/0.mp3'></audio>
+<div class='label'>engraving — царапанье по полу (новый ключ)</div>
+</div>
+<div class='item'>
+<audio controls preload='none' src='../footsteps/0.mp3'></audio>
+<div class='label'>footsteps — патруль стражи (переделан)</div>
+</div>
+<div class='item excl'><div class='label'>（пропущено — уже есть в soundpack/new): «a door open»→door-opens, «a door crash open»→door-smash, «a door unlock and open»→unlock, «someone counting money»→counting-coins, «splashing of a naiad»→splash, «barely hear faint splashing»→splash</div></div>
+<h2>Death omens</h2>
+<div class='item'>
+<audio controls preload='none' src='cwnannwn-howling/0.mp3'></audio>
+<div class='label'>You hear the howling of the CwnAnnwn...</div>
+<div class='prompt'>prompt: Eerie ghostly hounds howling in the far distance, chilling and otherworldly</div>
+</div>
+<div class='item'>
+<audio controls preload='none' src='banshee-wailing/0.mp3'></audio>
+<div class='label'>You hear the wailing of the Banshee...</div>
+<div class='prompt'>prompt: A banshee&#x27;s high, mournful wail echoing through a cavern, ominous and thin</div>
+</div>
+<h2>Monsters - general</h2>
+<div class='item'>
+<audio controls preload='none' src='noises-in-distance/0.mp3'></audio>
+<div class='label'>You hear some noises &lt;in the distance&gt;.</div>
+<div class='prompt'>prompt: Faint muffled scuffling and clatter from far away down a corridor</div>
+</div>
+<div class='item'>
+<audio controls preload='none' src='wand-zap/0.mp3'></audio>
+<div class='label'>You hear a &lt;nearby/distant&gt; zap.</div>
+<div class='prompt'>prompt: A crisp electric zap crackle, like a magical wand discharge, with a faint buzz</div>
+</div>
+<div class='item'>
+<audio controls preload='none' src='potion-chugging/0.mp3'></audio>
+<div class='label'>You hear a chugging sound.</div>
+<div class='prompt'>prompt: A greedy glugging, chugging drinking sound, liquid being gulped down</div>
+</div>
+<div class='item'>
+<audio controls preload='none' src='monster-behind-boulder/0.mp3'></audio>
+<div class='label'>You hear a monster behind the boulder. Perhaps that&#x27;s why you cannot move it.</div>
+<div class='prompt'>prompt: A heavy grinding push against stone followed by a low threatening growl</div>
+</div>
+<h2>Pets</h2>
+<div class='item'>
+<audio controls preload='none' src='pet-thunder/0.mp3'></audio>
+<div class='label'>You hear the rumble of distant thunder...</div>
+<div class='prompt'>prompt: Deep low rumble of thunder rolling across the distance, distant and ominous</div>
+</div>
+<div class='item'>
+<audio controls preload='none' src='studio-audience-applause/0.mp3'></audio>
+<div class='label'>You hear the studio audience applaud!</div>
+<div class='prompt'>prompt: A burst of enthusiastic crowd applause and cheering</div>
+</div>
+<h2>Werecreatures</h2>
+<div class='item'>
+<audio controls preload='none' src='werewolf-howl/0.mp3'></audio>
+<div class='label'>You hear a &lt;jackal/wolf&gt; howling at the moon.</div>
+<div class='prompt'>prompt: A lone wolf howling long and mournfully at the moon in the night</div>
+</div>
+<h2>Other monsters</h2>
+<div class='item'>
+<audio controls preload='none' src='gelatinous-cube-slurp/0.mp3'></audio>
+<div class='label'>You hear a slurping sound.</div>
+<div class='prompt'>prompt: A wet, obscene slurping and squelching sound as something absorbs objects</div>
+</div>
+<div class='item'>
+<audio controls preload='none' src='metallivore-crunch/0.mp3'></audio>
+<div class='label'>You hear a crunching sound.</div>
+<div class='prompt'>prompt: A hard metallic crunching and grinding, like biting into iron</div>
+</div>
+<div class='item'>
+<audio controls preload='none' src='dwarf-digging-rock/0.mp3'></audio>
+<div class='label'>You hear crashing rock.</div>
+<div class='prompt'>prompt: Heavy rock being chiseled and crumbling, picks striking stone, rocks tumbling</div>
+</div>
+<div class='item'>
+<audio controls preload='none' src='hole-crash-ground/0.mp3'></audio>
+<div class='label'>You hear something crash through the ground.</div>
+<div class='prompt'>prompt: A heavy object falling and crashing through crumbling earth and rock into a hole</div>
+</div>
+<div class='item'>
+<audio controls preload='none' src='gas-spore-blast/0.mp3'></audio>
+<div class='label'>You hear a blast.</div>
+<div class='prompt'>prompt: A dull explosive blast with a rush of air and sharp crack</div>
+</div>
+<div class='item'>
+<audio controls preload='none' src='door-destroyed-crash/0.mp3'></audio>
+<div class='label'>You hear a crashing sound.</div>
+<div class='prompt'>prompt: Wood and debris crashing down and splintering, a collapsing door</div>
+</div>
+<div class='item'>
+<audio controls preload='none' src='vortex-rushing/0.mp3'></audio>
+<div class='label'>You hear a rushing noise nearby.</div>
+<div class='prompt'>prompt: A rushing whirlwind of air, a swirling wind gust whooshing past</div>
+</div>
+<div class='item'>
+<audio controls preload='none' src='ochre-jelly-splat/0.mp3'></audio>
+<div class='label'>You hear a splat nearby.</div>
+<div class='prompt'>prompt: A wet squishy splat, like soft jelly slapping against stone</div>
+</div>
+<div class='item'>
+<audio controls preload='none' src='armor-thud/0.mp3'></audio>
+<div class='label'>You hear a thud.</div>
+<div class='prompt'>prompt: A heavy dull thud as something solid drops to the floor</div>
+</div>
+<div class='item'>
+<audio controls preload='none' src='shield-clank/0.mp3'></audio>
+<div class='label'>You hear a clank.</div>
+<div class='prompt'>prompt: A metallic clank, metal objects clattering and ringing on stone</div>
+</div>
+<div class='item'>
+<audio controls preload='none' src='armor-cracking/0.mp3'></audio>
+<div class='label'>You hear a cracking sound.</div>
+<div class='prompt'>prompt: Metal cracking and splitting with a sharp strained creak</div>
+</div>
+<div class='item'>
+<audio controls preload='none' src='shirt-ripping/0.mp3'></audio>
+<div class='label'>You hear a ripping sound.</div>
+<div class='prompt'>prompt: Cloth tearing and ripping apart with a long shred</div>
+</div>
+<div class='item'>
+<audio controls preload='none' src='chewing-lizard/0.mp3'></audio>
+<div class='label'>You hear chewing.</div>
+<div class='prompt'>prompt: Slow wet chewing and munching, crunching through flesh</div>
+</div>
+<div class='item'>
+<audio controls preload='none' src='cough-breath/0.mp3'></audio>
+<div class='label'>You hear a cough.</div>
+<div class='prompt'>prompt: A sudden dry strangled cough, a choked breath</div>
+</div>
+<div class='item'>
+<audio controls preload='none' src='ghoul-gobble/0.mp3'></audio>
+<div class='label'>You hear an awful gobbling noise.</div>
+<div class='prompt'>prompt: Horrid gobbling and gagging as something devours rotten meat</div>
+</div>
+<div class='item'>
+<audio controls preload='none' src='glob-slosh/0.mp3'></audio>
+<div class='label'>You hear a faint sloshing sound.</div>
+<div class='prompt'>prompt: A soft faint sloshing of liquid, like gel merging and shifting</div>
+</div>
+<h2>Dungeon features</h2>
+<div class='item'>
+<audio controls preload='none' src='slow-drip/0.mp3'></audio>
+<div class='label'>You hear a slow drip.</div>
+<div class='prompt'>prompt: A single water droplet dripping into a puddle, echoing in a cavern</div>
+</div>
+<div class='item'>
+<audio controls preload='none' src='sink-gurgle/0.mp3'></audio>
+<div class='label'>You hear a gurgling noise.</div>
+<div class='prompt'>prompt: Water gurgling and glugging down a pipe or drain</div>
+</div>
+<div class='item'>
+<audio controls preload='none' src='dishes-washed/0.mp3'></audio>
+<div class='label'>You hear dishes being washed!</div>
+<div class='prompt'>prompt: Clinking dishes and running water, someone washing up</div>
+</div>
+<div class='item'>
+<audio controls preload='none' src='water-on-coins/0.mp3'></audio>
+<div class='label'>You hear water falling on coins.</div>
+<div class='prompt'>prompt: Water trickling and dripping onto a pile of metal coins</div>
+</div>
+<div class='item'>
+<audio controls preload='none' src='fountain-bubbling/0.mp3'></audio>
+<div class='label'>You hear bubbling water.</div>
+<div class='prompt'>prompt: Bubbling and burbling fountain water flowing and splashing</div>
+</div>
+<div class='item'>
+<audio controls preload='none' src='soda-fountain/0.mp3'></audio>
+<div class='label'>You hear a soda fountain!</div>
+<div class='prompt'>prompt: Fizzy carbonated soda dispensing with bubbling and hissing</div>
+</div>
+<div class='item'>
+<audio controls preload='none' src='tumblers-click/0.mp3'></audio>
+<div class='label'>You hear &lt;number&gt; tumbler(s) click.</div>
+<div class='prompt'>prompt: A precise mechanical click of tumblers falling into place in a lock</div>
+</div>
+<div class='item'>
+<audio controls preload='none' src='gears-turn/0.mp3'></audio>
+<div class='label'>You hear &lt;number&gt; gear(s) turn.</div>
+<div class='prompt'>prompt: Heavy metal gears grinding and ratcheting as they turn</div>
+</div>
+<h2>Traps</h2>
+<div class='item'>
+<audio controls preload='none' src='boulder-trap-rumble/0.mp3'></audio>
+<div class='label'>You hear rumbling in the distance.</div>
+<div class='prompt'>prompt: Distant low rumbling of a great heavy boulder rolling</div>
+</div>
+<div class='item'>
+<audio controls preload='none' src='bowling/0.mp3'></audio>
+<div class='label'>You hear someone bowling.</div>
+<div class='prompt'>prompt: A heavy ball rolling and clattering, then pins struck, echoing</div>
+</div>
+<div class='item'>
+<audio controls preload='none' src='rumbling-stop/0.mp3'></audio>
+<div class='label'>You hear a rumbling stop abruptly.</div>
+<div class='prompt'>prompt: A rolling rumble suddenly stops with a dull thud and silence</div>
+</div>
+<div class='item'>
+<audio controls preload='none' src='boulder-crash/0.mp3'></audio>
+<div class='label'>You hear a loud crash!</div>
+<div class='prompt'>prompt: Two massive boulders colliding with a deep loud crash and rubble</div>
+</div>
+<div class='item'>
+<audio controls preload='none' src='trapped-door-explosion/0.mp3'></audio>
+<div class='label'>You hear a distant explosion.</div>
+<div class='prompt'>prompt: A muffled distant explosion, a boom echoing from far away</div>
+</div>
+<div class='item'>
+<audio controls preload='none' src='landmine-explosion/0.mp3'></audio>
+<div class='label'>Kaablamm! You hear an explosion in the distance.</div>
+<div class='prompt'>prompt: A loud distant explosion with a heavy boom and shockwave</div>
+</div>
+<div class='item'>
+<audio controls preload='none' src='squeaky-board/0.mp3'></audio>
+<div class='label'>You hear a distant squeaking sound.</div>
+<div class='prompt'>prompt: A distant high-pitched squeak, like a rusty hinge or floorboard</div>
+</div>
+<div class='item'>
+<audio controls preload='none' src='bear-web-roar/0.mp3'></audio>
+<div class='label'>You hear the roaring of a confused bear!</div>
+<div class='prompt'>prompt: A confused angry bear roaring and thrashing, muffled struggles</div>
+</div>
+<div class='item'>
+<audio controls preload='none' src='bear-trap-roar/0.mp3'></audio>
+<div class='label'>You hear the roaring of an angry bear!</div>
+<div class='prompt'>prompt: A furious bear roaring in pain, snarling and thrashing</div>
+</div>
+<div class='item'>
+<audio controls preload='none' src='deafening-roar/0.mp3'></audio>
+<div class='label'>You hear a deafening roar!</div>
+<div class='prompt'>prompt: An enormous deafening roar, a massive beast-like bellow</div>
+</div>
+<div class='item'>
+<audio controls preload='none' src='magic-trap-howl/0.mp3'></audio>
+<div class='label'>You hear distant howling.</div>
+<div class='prompt'>prompt: Distant wind howling down a tunnel, eerie and hollow</div>
+</div>
+<div class='item'>
+<audio controls preload='none' src='moon-howl/0.mp3'></audio>
+<div class='label'>You hear the moon howling at you.</div>
+<div class='prompt'>prompt: A weird high howling, laughter-like, echoing strangely</div>
+</div>
+<div class='item'>
+<audio controls preload='none' src='arrow-trap-click/0.mp3'></audio>
+<div class='label'>You hear a loud click!</div>
+<div class='prompt'>prompt: A sharp loud mechanical click, a mechanism engaging</div>
+</div>
+<div class='item'>
+<audio controls preload='none' src='dart-trap-click/0.mp3'></audio>
+<div class='label'>You hear a soft click!</div>
+<div class='prompt'>prompt: A soft quiet click, a small mechanism engaging</div>
+</div>
+<div class='item'>
+<audio controls preload='none' src='trapdoor-twang/0.mp3'></audio>
+<div class='label'>You hear a twang followed by a thud.</div>
+<div class='prompt'>prompt: A metallic twang or spring snap, then a dull thud</div>
+</div>
+<h2>Special rooms</h2>
+<div class='item'>
+<audio controls preload='none' src='seal-bark/0.mp3'></audio>
+<div class='label'>You hear a sound reminiscent of a seal barking.</div>
+<div class='prompt'>prompt: A weird barking honk like a seal barking, echoing in a chamber</div>
+</div>
+<div class='item'>
+<audio controls preload='none' src='elephant-peanut/0.mp3'></audio>
+<div class='label'>You hear a sound reminiscent of an elephant stepping on a peanut.</div>
+<div class='prompt'>prompt: A heavy crunching stomp, like a giant foot crushing a peanut</div>
+</div>
+<div class='item'>
+<audio controls preload='none' src='doctor-doolittle/0.mp3'></audio>
+<div class='label'>You hear Doctor Doolittle!</div>
+<div class='prompt'>prompt: A cheerful crowd of animal noises: chatter, barks and chirps mixed</div>
+</div>
+<div class='item'>
+<audio controls preload='none' src='searching-vault/0.mp3'></audio>
+<div class='label'>You hear someone searching.</div>
+<div class='prompt'>prompt: Rummaging and shuffling sounds, someone searching around</div>
+</div>
+<div class='item'>
+<audio controls preload='none' src='scrooge/0.mp3'></audio>
+<div class='label'>You hear Ebenezer Scrooge!</div>
+<div class='prompt'>prompt: A grumpy miser counting coins with sour grumbling</div>
+</div>
+<div class='item'>
+<audio controls preload='none' src='quarterback-play/0.mp3'></audio>
+<div class='label'>You hear the quarterback calling the play.</div>
+<div class='prompt'>prompt: A brisk voice calling out rapid numbers in a rhythmic cadence</div>
+</div>
+<div class='item'>
+<audio controls preload='none' src='oracle-snoring/0.mp3'></audio>
+<div class='label'>You hear snoring snakes.</div>
+<div class='prompt'>prompt: Odd sibilant hissing snores, many snakes sleeping</div>
+</div>
+<div class='item'>
+<audio controls preload='none' src='oracle-wind/0.mp3'></audio>
+<div class='label'>You hear a strange wind.</div>
+<div class='prompt'>prompt: A strange hollow wind whistling through unseen cracks</div>
+</div>
+<div class='item'>
+<audio controls preload='none' src='oracle-ravings/0.mp3'></audio>
+<div class='label'>You hear convulsive ravings.</div>
+<div class='prompt'>prompt: Muffled frantic rambling and muttering, incoherent ravings</div>
+</div>
+<div class='item'>
+<audio controls preload='none' src='oracle-woodchuck/0.mp3'></audio>
+<div class='label'>You hear someone say &quot;No more woodchucks!&quot;</div>
+<div class='prompt'>prompt: A gruff voice muttering mid a firm declaration</div>
+</div>
+<div class='item'>
+<audio controls preload='none' src='oracle-zot/0.mp3'></audio>
+<div class='label'>You hear a loud ZOT!</div>
+<div class='prompt'>prompt: A sudden loud magical ZOT, a burst of arcane energy</div>
+</div>
+<div class='item'>
+<audio controls preload='none' src='throne-conversation/0.mp3'></audio>
+<div class='label'>You hear the tones of courtly conversation.</div>
+<div class='prompt'>prompt: Polite refined chatter and murmured courtly conversation</div>
+</div>
+<div class='item'>
+<audio controls preload='none' src='throne-sceptre/0.mp3'></audio>
+<div class='label'>You hear a sceptre pounded in judgment.</div>
+<div class='prompt'>prompt: A heavy wooden staff or sceptre pounding on stone, commanding</div>
+</div>
+<div class='item'>
+<audio controls preload='none' src='throne-off-with-head/0.mp3'></audio>
+<div class='label'>Someone shouts &quot;Off with his/her head!&quot;</div>
+<div class='prompt'>prompt: A shrill commanding voice shouting a sentence, dramatic</div>
+</div>
+<div class='item'>
+<audio controls preload='none' src='queen-cats/0.mp3'></audio>
+<div class='label'>You hear Queen Beruthiel&#x27;s cats!</div>
+<div class='prompt'>prompt: Many angry cats hissing, yowling and meowing together</div>
+</div>
+<div class='item'>
+<audio controls preload='none' src='temple-praising/0.mp3'></audio>
+<div class='label'>You hear someone praising &lt;deity&gt;.</div>
+<div class='prompt'>prompt: A reverent chanting voice praising the deity, echoing in a temple</div>
+</div>
+<div class='item'>
+<audio controls preload='none' src='temple-beseeching/0.mp3'></audio>
+<div class='label'>You hear someone beseeching &lt;deity&gt;.</div>
+<div class='prompt'>prompt: A desperate pleading voice praying and beseeching</div>
+</div>
+<div class='item'>
+<audio controls preload='none' src='temple-sacrifice/0.mp3'></audio>
+<div class='label'>You hear an animal carcass being offered in sacrifice.</div>
+<div class='prompt'>prompt: A heavy fleshy thud of a carcass being placed on an altar</div>
+</div>
+<div class='item'>
+<audio controls preload='none' src='temple-donations/0.mp3'></audio>
+<div class='label'>You hear a strident plea for donations.</div>
+<div class='prompt'>prompt: A loud insistent wheedling voice pleading for coins</div>
+</div>
+<div class='item'>
+<audio controls preload='none' src='beehive-buzzing/0.mp3'></audio>
+<div class='label'>You hear a low buzzing.</div>
+<div class='prompt'>prompt: A low deep buzzing hum of a large swarm of bees</div>
+</div>
+<div class='item'>
+<audio controls preload='none' src='beehive-drone/0.mp3'></audio>
+<div class='label'>You hear an angry drone.</div>
+<div class='prompt'>prompt: An angry agitated buzzing drone, a disturbed beehive</div>
+</div>
+<div class='item'>
+<audio controls preload='none' src='bees-bonnet/0.mp3'></audio>
+<div class='label'>You hear bees in your bonnet!</div>
+<div class='prompt'>prompt: Bees buzzing frantically and angrily all around your head</div>
+</div>
+<div class='item'>
+<audio controls preload='none' src='bees-nonexistent-bonnet/0.mp3'></audio>
+<div class='label'>You hear bees in your (nonexistent) bonnet!</div>
+<div class='prompt'>prompt: Bees buzzing around your ears, frantic and close</div>
+</div>
+<div class='item'>
+<audio controls preload='none' src='graveyard-quiet/0.mp3'></audio>
+<div class='label'>You suddenly realize it is unnaturally quiet.</div>
+<div class='prompt'>prompt: A sudden uncanny, unnaturally deep silence, no sound at all</div>
+</div>
+<div class='item'>
+<audio controls preload='none' src='graveyard-hair-neck/0.mp3'></audio>
+<div class='label'>The &lt;hair&gt; on the back of your &lt;neck&gt; stands up.</div>
+<div class='prompt'>prompt: A subtle eerie chill, a low creepy shiver tone</div>
+</div>
+<div class='item'>
+<audio controls preload='none' src='graveyard-hair-head/0.mp3'></audio>
+<div class='label'>The &lt;hair&gt; on your &lt;head&gt; seems to stand up.</div>
+<div class='prompt'>prompt: A weird unsettling whispery chill, hairs raising</div>
+</div>
+<div class='item'>
+<audio controls preload='none' src='barracks-blades/0.mp3'></audio>
+<div class='label'>You hear blades being honed.</div>
+<div class='prompt'>prompt: Steel being sharpened, a whetstone scraping a blade rhythmically</div>
+</div>
+<div class='item'>
+<audio controls preload='none' src='barracks-snoring/0.mp3'></audio>
+<div class='label'>You hear loud snoring.</div>
+<div class='prompt'>prompt: Loud heavy snoring from many sleeping soldiers</div>
+</div>
+<div class='item'>
+<audio controls preload='none' src='barracks-dice/0.mp3'></audio>
+<div class='label'>You hear dice being thrown.</div>
+<div class='prompt'>prompt: Dice rattling on a wooden table, rolling and clicking</div>
+</div>
+<div class='item'>
+<audio controls preload='none' src='general-macarthur/0.mp3'></audio>
+<div class='label'>You hear General MacArthur!</div>
+<div class='prompt'>prompt: A booming authoritative military voice barking orders</div>
+</div>
+<div class='item'>
+<audio controls preload='none' src='swamp-mosquitoes/0.mp3'></audio>
+<div class='label'>You hear mosquitoes!</div>
+<div class='prompt'>prompt: A high thin whine of mosquitoes buzzing close by</div>
+</div>
+<div class='item'>
+<audio controls preload='none' src='swamp-marsh-gas/0.mp3'></audio>
+<div class='label'>You smell marsh gas!</div>
+<div class='prompt'>prompt: A low bubbling gurgle of gas rising from murky water</div>
+</div>
+<div class='item'>
+<audio controls preload='none' src='donald-duck/0.mp3'></audio>
+<div class='label'>You hear Donald Duck!</div>
+<div class='prompt'>prompt: An angry quacking cartoonish voice ranting in gibberish</div>
+</div>
+<div class='item'>
+<audio controls preload='none' src='shop-shoplifters/0.mp3'></audio>
+<div class='label'>You hear someone cursing shoplifters.</div>
+<div class='prompt'>prompt: An irritated grumbling voice muttering curses under its breath</div>
+</div>
+<div class='item'>
+<audio controls preload='none' src='shop-cash-register/0.mp3'></audio>
+<div class='label'>You hear the chime of a cash register.</div>
+<div class='prompt'>prompt: A classic cash register chime with a definitive ding</div>
+</div>
+<div class='item'>
+<audio controls preload='none' src='neiman-marcus/0.mp3'></audio>
+<div class='label'>You hear Neiman and Marcus arguing!</div>
+<div class='prompt'>prompt: Two pompous voices arguing over prices, rapid back and forth</div>
+</div>
+<h2>Items</h2>
+<div class='item'>
+<audio controls preload='none' src='item-shatter/0.mp3'></audio>
+<div class='label'>You hear something shatter!</div>
+<div class='prompt'>prompt: Glass or ceramic shattering into pieces with a sharp crash</div>
+</div>
+<div class='item'>
+<audio controls preload='none' src='boulder-crumbling/0.mp3'></audio>
+<div class='label'>You hear a crumbling sound.</div>
+<div class='prompt'>prompt: Stone crumbling and grinding, a boulder breaking apart</div>
+</div>
+<h2>Scroll of scare monster</h2>
+<div class='item'>
+<audio controls preload='none' src='scare-monster-laugh-near/0.mp3'></audio>
+<div class='label'>You hear maniacal laughter close by.</div>
+<div class='prompt'>prompt: A close maniacal high-pitched cackling laughter</div>
+</div>
+<div class='item'>
+<audio controls preload='none' src='scare-monster-laugh-far/0.mp3'></audio>
+<div class='label'>You hear maniacal laughter in the distance.</div>
+<div class='prompt'>prompt: Maniacal cackling laughter echoing from far away</div>
+</div>
+<div class='item'>
+<audio controls preload='none' src='scare-monster-wail-near/0.mp3'></audio>
+<div class='label'>You hear sad wailing close by.</div>
+<div class='prompt'>prompt: A close sad mournful wailing, weeping and keening</div>
+</div>
+<div class='item'>
+<audio controls preload='none' src='scare-monster-wail-far/0.mp3'></audio>
+<div class='label'>You hear sad wailing in the distance.</div>
+<div class='prompt'>prompt: Sad mournful wailing drifting in from far off</div>
+</div>
+<h2>Container</h2>
+<div class='item'>
+<audio controls preload='none' src='container-muffled-shatter/0.mp3'></audio>
+<div class='label'>You hear a muffled shatter.</div>
+<div class='prompt'>prompt: A muffled shattering of glass inside a container, dulled</div>
+</div>
+<div class='item'>
+<audio controls preload='none' src='container-muffled-crack/0.mp3'></audio>
+<div class='label'>You hear a muffled cracking.</div>
+<div class='prompt'>prompt: A muffled cracking of an eggshell inside a container</div>
+</div>
+<h2>Stethoscope</h2>
+<div class='item'>
+<audio controls preload='none' src='heartbeat/0.mp3'></audio>
+<div class='label'>You hear your heart beat.</div>
+<div class='prompt'>prompt: A slow strong heartbeat, thumping and deep</div>
+</div>
+<div class='item'>
+<audio controls preload='none' src='faint-typing/0.mp3'></audio>
+<div class='label'>You hear a faint typing noise.</div>
+<div class='prompt'>prompt: Faint rapid clicking and tapping, like typing on a keyboard</div>
+</div>
+<div class='item'>
+<audio controls preload='none' src='secret-door-hollow/0.mp3'></audio>
+<div class='label'>You hear a hollow sound. This must be a secret &lt;door/passage&gt;!</div>
+<div class='prompt'>prompt: A hollow knocking on a wall, empty and echoing behind it</div>
+</div>
+<div class='item'>
+<audio controls preload='none' src='its-dead-jim/0.mp3'></audio>
+<div class='label'>You hear a voice say, &quot;It&#x27;s dead, Jim.&quot;</div>
+<div class='prompt'>prompt: A calm matter-of-fact voice speaking a short sentence</div>
+</div>
+<div class='item'>
+<audio controls preload='none' src='hellfire-crackling/0.mp3'></audio>
+<div class='label'>You hear the crackling of hellfire.</div>
+<div class='prompt'>prompt: Deep ominous crackling of fire with a sinister low roar</div>
+</div>
+<h2>Bugle</h2>
+<div class='item'>
+<audio controls preload='none' src='bugle-reveille/0.mp3'></audio>
+<div class='label'>You hear a bugle playing reveille!</div>
+<div class='prompt'>prompt: A bright clear bugle playing a military reveille call</div>
+</div>
+<div class='item'>
+<audio controls preload='none' src='battle-gear-rattle/0.mp3'></audio>
+<div class='label'>You hear the rattle of battle gear being readied.</div>
+<div class='prompt'>prompt: Metal armor and weapons rattling and clinking as troops arm up</div>
+</div>
+<h2>Dungeon environment</h2>
+<div class='item'>
+<audio controls preload='none' src='moat-hissing-gas/0.mp3'></audio>
+<div class='label'>You hear hissing gas.</div>
+<div class='prompt'>prompt: A sharp hissing of steam, water boiling and evaporating</div>
+</div>
+<div class='item'>
+<audio controls preload='none' src='moat-soft-crackling/0.mp3'></audio>
+<div class='label'>You hear a soft crackling.</div>
+<div class='prompt'>prompt: Soft gentle crackling of ice forming and freezing</div>
+</div>
+<div class='item'>
+<audio controls preload='none' src='plane-water-crackling/0.mp3'></audio>
+<div class='label'>You hear a crackling sound.</div>
+<div class='prompt'>prompt: A sharp crackling of water freezing solid with ice snaps</div>
+</div>
+</body></html>

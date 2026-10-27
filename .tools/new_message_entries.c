@@ -1,0 +1,6 @@
+    { " in the distance", "вдалеке", "" },
+    { "a door being smashed", "как разбивают дверь", "" },
+    { "a door exploding", "как взрывается дверь", "" },
+    { "an explosion", "взрыв", "" },
+    { "feel the shock of", "чувствуешь толчок", "" },
+    { "some noises", "какие-то шумы", "" },

@@ -1,0 +1,57 @@
+# NetHack 5.0 configuration for the Nintendo 3DS port.
+#
+# This file is read from:  sdmc:/3ds/nethack/config/NetHack.cnf
+# (a copy is placed there automatically the first time the game runs).
+#
+# ---------------------------------------------------------------------------
+# Map display: tiles vs. characters
+# ---------------------------------------------------------------------------
+#   tiled_map    - draw the map on the top screen using graphical tiles
+#   !tiled_map   - draw the map using traditional characters / symbols
+#
+# Leave exactly one of the next two lines uncommented.
+OPTIONS=tiled_map
+#OPTIONS=!tiled_map
+
+# ---------------------------------------------------------------------------
+# Tile size (pixels).  Default is 16x16 when these are not set.
+# The map shows as many tiles as fit on the 400x240 top screen, so larger
+# tiles mean a smaller visible map area (the view scrolls with the hero).
+# Smaller values give a wider view, larger values a more detailed one.
+# In character mode the equivalent symbol size is set from the game's
+# OPTIONS/SETTINGS screen (stored as char_width/char_height in 3dsui.cfg).
+# ---------------------------------------------------------------------------
+#OPTIONS=tile_width:16
+#OPTIONS=tile_height:16
+
+# You can also switch at any time from within the game:
+#   press START, choose Settings, then open the "3DS UI settings" category.
+# The same screen has a "NetHack settings" category for the common nethackrc
+# options (tutorial prompt, status fields, autopickup, hints, and so on), and
+# a "More prompts" row which can skip the --More-- keypress.
+
+# ---------------------------------------------------------------------------
+# Controls
+# ---------------------------------------------------------------------------
+# D-pad moves the hero; the circle pad pans the map view (and moves the
+# cursor while a look/glance command is active).  The soft keyboard's digit
+# row uses number-pad directions (1 = down-left, 3 = down-right, ...).
+# The port forces number_pad:1 so this always works, even with an old
+# NetHack.cnf on the SD card; the line is here for documentation.
+#OPTIONS=number_pad:1
+
+# ---------------------------------------------------------------------------
+# Sound
+# ---------------------------------------------------------------------------
+# Effects are on by default and play through the port's CSND backend.
+# Own sounds can be dropped into sdmc:/3ds/nethack/sounds/<key>/0.wav
+# (16-bit mono PCM WAV) without rebuilding; key names are listed in
+# sys/3ds/README.md.  A deaf hero hears nothing, except footsteps.
+#OPTIONS=!sounds
+#OPTIONS=soundlib:sound3ds
+
+# ---------------------------------------------------------------------------
+# Nice-to-have defaults
+# ---------------------------------------------------------------------------
+OPTIONS=color
+OPTIONS=hilite_pet
